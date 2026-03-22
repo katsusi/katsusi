@@ -25,8 +25,8 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 **Data Analysis**
 - ![SQL](https://img.shields.io/badge/SQL-blue) (CTEs, window functions, aggregations)
-- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables) & ![Power Query](https://img.shields.io/badge/Power Query-orange)
-
+- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables) & ![Power Query](https://img.shields.io/badge/PowerQuery-orange)
+  
 **Data Visualization**
 - ![Power BI](https://img.shields.io/badge/PowerBI-yellow) (DAX, data modeling, dashboards)
 - ![Tableau](https://img.shields.io/badge/Tableau-navy) (basic)
