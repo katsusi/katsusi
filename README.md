@@ -16,8 +16,8 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 - Estimated **potential revenue loss from stock shortages**
 - Delivered an interactive **Power BI dashboard for decision-making**
 
-🔗 [[View Project Repository]](https://github.com/katsusi/Project-Inventory-Risk-Revenue-Exposure---Maven-Toys-)  
-📊 [View Dashboard Screenshots](#)
+🔗 [View Project Repository](https://github.com/katsusi/Project-Inventory-Risk-Revenue-Exposure---Maven-Toys-)  
+📊 [View Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYjkyNWI3YjItZmVlYi00OThhLWFlZjMtYmM2MTc4YzE3Y2RhIiwidCI6IjgyZjQ1NmIyLThlYjctNDI0My1iZTIyLTYxNDlkMWE0YTY0ZSJ9&embedImagePlaceholder=true&pageName=2bd94697465270c034b0)
 
 ---
 
