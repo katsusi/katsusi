@@ -24,12 +24,12 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 ## 🛠️ Tools & Skills
 
 **Data Analysis**
-- SQL (CTEs, window functions, aggregations)
-- Excel (data analysis, pivot tables)
+- ![SQL](https://img.shields.io/badge/SQL-blue) (CTEs, window functions, aggregations)
+- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables)
 
 **Data Visualization**
-- Power BI (DAX, data modeling, dashboards)
-- Tableau (basic)
+- ![Power BI](https://img.shields.io/badge/PowerBI-yellow) (DAX, data modeling, dashboards)
+- ![Tableau](https://img.shields.io/badge/Tableau-navy) (basic)
 
 **Technical Skills**
 - Data cleaning & transformation
