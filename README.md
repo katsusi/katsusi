@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kasia
 
-🎯 Aspiring Data Analyst with a background in supply chain, production planning, and operations.
+Aspiring Data Analyst with a background in supply chain, production planning, and operations.
 
 I build data projects that focus on **real business problems** — especially in inventory management, forecasting, and operational performance.
 
@@ -25,7 +25,7 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 **Data Analysis**
 - ![SQL](https://img.shields.io/badge/SQL-blue) (CTEs, window functions, aggregations)
-- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables)
+- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables) & ![Power Query](https://img.shields.io/badge/Power Query-orange)
 
 **Data Visualization**
 - ![Power BI](https://img.shields.io/badge/PowerBI-yellow) (DAX, data modeling, dashboards)
@@ -33,9 +33,9 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 **Technical Skills**
 - Data cleaning & transformation
-- KPI development
+- KPI development and reporting
 - Exploratory data analysis
-- Business problem framing
+- ERP experience (SAP, 123Insight)
 
 ---
 
@@ -52,12 +52,3 @@ I’m particularly interested in roles in:
 - Operations Analytics
 - Business/Data Analysis
 
----
-
-## 📫 Connect With Me
-- LinkedIn: [https://linkedin.com/in/katsus87]
-- GitHub: [https://github.com/katsusi]
----
-
-I enjoy turning raw data into actionable insights that support better decision-making.  
-With my background in operations, I focus on solving problems that businesses actually face
