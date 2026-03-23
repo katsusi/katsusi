@@ -8,7 +8,7 @@ I build data projects that focus on **real business problems** — especially in
 
 ## 📊 Featured Project
 
-### 📦 Inventory Risk & Revenue Exposure Analysis
+### Inventory Risk & Revenue Exposure Analysis
 End-to-end analytics project analyzing stock coverage, demand variability, and financial risk.
 
 - Identified high-risk SKUs using **days of supply vs lead time**
@@ -21,11 +21,12 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 **Data Analysis**
 - ![SQL](https://img.shields.io/badge/SQL-blue) (CTEs, window functions, aggregations)
-- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables) & ![Power Query](https://img.shields.io/badge/PowerQuery-orange)
+- ![Excel](https://img.shields.io/badge/Excel-green) (data analysis, pivot tables)
+- ![Power Query](https://img.shields.io/badge/PowerQuery-orange)
   
 **Data Visualization**
 - ![Power BI](https://img.shields.io/badge/PowerBI-yellow) (DAX, data modeling, dashboards)
@@ -39,14 +40,14 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 ---
 
-## 📈 What I'm Currently Working On
+## What I'm Currently Working On
 - Expanding my portfolio with projects in **operations and forecasting**
 - Learning **Python for data analysis**
-- Improving **data modeling and DAX skills**
-
+- Improving **Data modeling and DAX skills**
+  
 ---
 
-## 🎯 Career Focus
+## Career Focus
 I’m particularly interested in roles in:
 - Supply Chain Analytics
 - Operations Analytics
