@@ -30,7 +30,6 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
   
 **Data Visualization**
 - ![Power BI](https://img.shields.io/badge/PowerBI-yellow) (DAX, data modeling, dashboards)
-- ![Tableau](https://img.shields.io/badge/Tableau-navy) (basic)
 
 **Technical Skills**
 - Data cleaning & transformation
@@ -42,7 +41,7 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 
 ## What I'm Currently Working On
 - Expanding my portfolio with projects in **operations and forecasting**
-- Learning **Python for data analysis**
+- Learning **Python for data analysis and Tableau**
 - Improving **Data modeling and DAX skills**
   
 ---
