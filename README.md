@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kasia
 
-Aspiring Data Analyst with a background in supply chain, production planning, and operations.
+Production Planner who has steadily built a data practice alongside the day job. 
 
-I build data projects that focus on **real business problems** — especially in inventory management, forecasting, and operational performance.
+I build analytics tools at work (SQL reporting,Power BI dashboards,Power Query automation) and expand my portfolio with projects focused on inventory, supply chain, and operational performance
 
 ---
 
@@ -47,8 +47,5 @@ End-to-end analytics project analyzing stock coverage, demand variability, and f
 ---
 
 ## Career Focus
-I’m particularly interested in roles in:
-- Supply Chain Analytics
-- Operations Analytics
-- Business/Data Analysis
+I'm particularly interested in the intersection of operations and analytics
 
